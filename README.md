@@ -5,5 +5,3 @@
 🌱 I believe in the power of continuous learning, and GitHub is my playground for sharing my projects, collaborating with the community, and being part of the ever-evolving tech landscape.
 
 🤝 Let's connect! Whether you have a coding challenge, a collaboration idea, or just want to geek out about the latest tech trends, feel free to reach out. Together, let's build something amazing! 🚀
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
