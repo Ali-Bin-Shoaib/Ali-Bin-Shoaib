@@ -2,8 +2,6 @@
 
 I'm **Ali**, a Web Developer from Mukalla-Hadramout-Yemen, passionate about coding and innovation.
 
-<img align="right" src="https://github.com/Ali-Bin-Shoaib/Ali-Bin-Shoaib/blob/main/assets/coding.gif" width="250" alt="Coding GIF">
-
 ## 🚀 About Me
 Specializing in **React, Next.js, shadcn, and JavaScript**, I enjoy creating dynamic, user-friendly web applications. My skills cover both front-end and back-end development, turning ideas into seamless digital experiences.
 
