@@ -12,7 +12,7 @@ Specializing in **React, Next.js, shadcn, and JavaScript**, I enjoy creating dyn
 - 🌱 I’m currently learning **TypeScript** and **GraphQL**.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **web development**, **React**, **Next.js**, **shadcn**, and **JavaScript**.
-- 📫 How to reach me: [ali@example.com](mailto:ali@example.com)
+- 📫 How to reach me: [ali.h.bin.shoaib@gmail.com](mailto:ali.h.bin.shoaib@gmail.com)
 - ⚡ Fun fact: I love to explore new tech trends and frameworks.
 
 ## 📊 GitHub Stats
@@ -36,7 +36,7 @@ Specializing in **React, Next.js, shadcn, and JavaScript**, I enjoy creating dyn
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bin-shoaib/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ali_bin_shoaib)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali.h.bin.shoaib@gmail.com)
 
 ---
 
