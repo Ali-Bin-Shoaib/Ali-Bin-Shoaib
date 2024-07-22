@@ -3,7 +3,7 @@
 I'm **Ali**, a Web Developer from Mukalla-Hadramout-Yemen, passionate about coding and innovation.
 
 ## 🚀 About Me
-Specializing in **React, Next.js, shadcn, and JavaScript**, I enjoy creating dynamic, user-friendly web applications. My skills cover both front-end and back-end development, turning ideas into seamless digital experiences.
+Specializing in **React, Next.js, shadcn, and TypeScript**, I enjoy creating dynamic, user-friendly web applications. My skills cover both front-end and back-end development, turning ideas into seamless digital experiences.
 
 - 🌱 I’m currently learning **TypeScript** and **GraphQL**.
 - 👯 I’m looking to collaborate on open-source projects.
